@@ -1,0 +1,8 @@
+# f = open("test1.txt", "r", encoding="utf-8")
+# f.write("µÚ¶þ´Î²âÊÔ")
+# file = f.read()
+# print(file)
+# f.close()
+# print(file)
+# str = f.read(3)
+# print(str)
